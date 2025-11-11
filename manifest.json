@@ -1,15 +1,15 @@
 {
-  "short_name": "Sổ Tay NNC",
-  "name": "Sổ Tay Ngôn Ngữ Chung",
+  "short_name": "WMG Code",
+  "name": "Bộ ngôn ngữ chung WMG",
   "description": "Một ứng dụng web đơn giản để lưu trữ và tra cứu 'Bộ Ngôn Ngữ Chung' của công ty, giúp các thành viên dễ dàng ghi nhớ và sử dụng.",
   "icons": [
     {
-      "src": "/icon-192.png",
+      "src": "icon-192.png",
       "type": "image/png",
       "sizes": "192x192"
     },
     {
-      "src": "/icon-512.png",
+      "src": "icon-512.png",
       "type": "image/png",
       "sizes": "512x512"
     }
